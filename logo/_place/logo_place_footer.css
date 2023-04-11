@@ -1,0 +1,6 @@
+.logo_place_footer {
+    /* странная конструкция, непонятно что имелось в виду в брифе... тем не менее не работает...*/
+    background-image: url(../images/logo_place_footer.svg);
+    width: 183px;
+    height: 35px;
+  }
